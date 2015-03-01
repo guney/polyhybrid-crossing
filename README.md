@@ -9,7 +9,7 @@ Please note that the function returns an array.
 calculatePossibleGametes(int);
 ```
 
-Function uses the English alphabet from A to Z automaticly. If you want to shuffle the characters, just give "true" value as the function's second argument.
+Function uses the English alphabet from A to Z automatically. If you want to shuffle the characters, just give "true" value as its second argument.
 ```PHP
 calculatePossibleGametes(int, true);
 ```
